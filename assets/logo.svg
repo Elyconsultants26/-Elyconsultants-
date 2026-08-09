@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="white"/>
+  
+  <!-- Main Logo Icon -->
+  <g transform="translate(350, 50)">
+    <!-- Red "E" shape -->
+    <rect x="0" y="0" width="140" height="30" fill="#c5162e"/>
+    <rect x="0" y="50" width="140" height="30" fill="#c5162e"/>
+    <rect x="0" y="100" width="140" height="30" fill="#c5162e"/>
+    <rect x="0" y="0" width="35" height="140" fill="#c5162e"/>
+    
+    <!-- Black curved elements -->
+    <path d="M 180 0 Q 220 30 220 70 Q 220 110 180 140" stroke="#1a1a1a" stroke-width="35" fill="none" stroke-linecap="round"/>
+    <rect x="100" y="35" width="50" height="25" fill="#1a1a1a" transform="rotate(-15 125 47)"/>
+    <rect x="100" y="85" width="50" height="25" fill="#1a1a1a" transform="rotate(15 125 97)"/>
+  </g>
+  
+  <!-- Text: ELYCONSULTANT -->
+  <text x="500" y="300" font-family="Arial, sans-serif" font-size="90" font-weight="bold" text-anchor="middle">
+    <tspan fill="#c5162e">ELY</tspan><tspan fill="#1a1a1a">CONSULTANT</tspan>
+  </text>
+  
+  <!-- Tagline -->
+  <text x="500" y="360" font-family="Arial, sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#1a1a1a" letter-spacing="3">
+    MARKETING &amp; BRANDING FIRM
+  </text>
+  
+  <!-- Handle -->
+  <text x="500" y="420" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#1a1a1a" letter-spacing="2">
+    @Sir~Ely~Foundations
+  </text>
+</svg>
